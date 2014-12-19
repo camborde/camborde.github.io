@@ -29,6 +29,18 @@ header{
 }
 .navigation:hover{color:#FF4C00;}
 
+.robot{
+	background-image: url(robot.png);
+	margin-top:30px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 450px;
+	width: 600px;
+}
+.robot:hover{
+	background-image: url(robot.gif);
+}
+
 article{
 	margin-right: 200px;
 	margin-left: 200px;
