@@ -1,0 +1,34 @@
+body{
+	margin: 0px 0px 0px 0px;
+	background-color: black;
+	background-image: url(bg.png);
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+@font-face {
+    font-family: market;
+    src: url(market.ttf);
+}
+
+.navigation{
+	font-family: 'market';
+	font-size: 30px;
+	margin-left: 75%;
+	margin-top: 10%;
+	float: left;
+}
+
+a{
+	color:#f29422;
+	text-decoration: none;
+}
+a:hover{
+	color:#ce7e1d;
+}
+
+.twitter{
+	position:absolute;
+	margin-left: 35px;
+	margin-top: 3%;
+}
