@@ -51,6 +51,24 @@ article{
 	margin-bottom: 20px;
 }
 
+.galerie{
+	margin: 30px;
+}
+
+.message{
+	float: right;
+	color: #564F51;
+}
+
+.photos{
+	margin:10px;
+	width:20%;
+	height: 20%;
+	border: solid;
+	border-width: 2px;
+	border-color:#564F51; 
+}
+
 footer{
 	font-size: 10px;
 	position:absolute;
